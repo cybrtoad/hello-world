@@ -1,4 +1,3 @@
 # hello-world
-General Information
 
-Writer and coder from Wyoming.
+Tamara Linse - Ceaseless Creative - ceaselesscreative.io and mesh.site
