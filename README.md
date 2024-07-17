@@ -1,3 +1,3 @@
 # hello-world
 
-Tamara Linse - Ceaseless Creative - ceaselesscreative.io and mesh.site
+Tamara Linse - software developer and writer, tamaralinse.com
